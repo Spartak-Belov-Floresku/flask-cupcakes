@@ -10,9 +10,10 @@ To run this app, you need to deploy it to the server
 <img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/img-jg/main/restful-cupcakes-2.png">
 
 
-###Technology Used:
+### Technology Used:
 
 - Flask
 - PostgreSQL
 - JavaScript
+- jQuery
 - Bootstrap
